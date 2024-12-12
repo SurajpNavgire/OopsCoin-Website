@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OopsCoin</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="navbar">
+      <h1>OopsCoin</h1>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#tokenomics">Tokenomics</a>
+        <a href="#roadmap">Roadmap</a>
+        <a href="#community">Community</a>
+        <a href="#buy">Buy</a>
+      </nav>
+    </div>
+  </header>
+
+  <section id="hero">
+    <h2>Turning Mishaps Into Fortune</h2>
+    <p>OopsCoin is the funniest and most relatable meme token. Celebrate every "Oops!" moment with us.</p>
+    <a href="#buy" class="btn">Buy Now</a>
+    <a href="#community" class="btn">Join the Community</a>
+  </section>
+
+  <section id="about">
+    <h2>About OopsCoin</h2>
+    <p>OopsCoin was created to add laughter and joy to the crypto world. Inspired by life's clumsy moments, we're building a token that's fun and rewarding.</p>
+  </section>
+
+  <section id="tokenomics">
+    <h2>Tokenomics</h2>
+    <ul>
+      <li>Total Supply: 1 Trillion OopsCoins</li>
+      <li>Liquidity Pool: 50%</li>
+      <li>Community Rewards: 20%</li>
+      <li>Development Fund: 10%</li>
+      <li>Burn Mechanism: 2% per transaction</li>
+    </ul>
+  </section>
+
+  <section id="roadmap">
+    <h2>Roadmap</h2>
+    <ul>
+      <li><strong>Phase 1:</strong> Community building, meme contests, and token launch.</li>
+      <li><strong>Phase 2:</strong> Launch "Oops Moments" NFT collection and staking rewards.</li>
+      <li><strong>Phase 3:</strong> Expand globally with partnerships and gamified earning.</li>
+    </ul>
+  </section>
+
+  <section id="community">
+    <h2>Join the Community</h2>
+    <p>Follow us on social media and be part of the fun!</p>
+    <div class="social-links">
+      <a href="#">Discord</a>
+      <a href="#">Twitter</a>
+      <a href="#">Telegram</a>
+    </div>
+  </section>
+
+  <section id="buy">
+    <h2>How to Buy OopsCoin</h2>
+    <ol>
+      <li>Download a crypto wallet (e.g., MetaMask).</li>
+      <li>Connect to the Binance Smart Chain network.</li>
+      <li>Visit PancakeSwap and import OopsCoin.</li>
+      <li>Swap BNB for OopsCoin and start the fun!</li>
+    </ol>
+  </section>
+
+  <footer>
+    <p>© 2024 OopsCoin. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
